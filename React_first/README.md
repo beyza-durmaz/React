@@ -7,5 +7,4 @@ Kullanıcı datalarını almak için users adresine axios ile istek gönderdim v
 
 Daha sonra index.js içerisine app.js içindeki getData fonksiyonunu import ettim ve konsola getData fonksiyonunun id'sini ekleyerek yazdırdım.
 
-## Bu bir [patika.dev](https://www.patika.dev/tr) ödevidir. 
-## Teşekkürler [patika.dev](https://www.patika.dev/tr)
+## Bu bir [patika.dev](https://www.patika.dev/tr) ödevidir. Teşekkürler [patika.dev](https://www.patika.dev/tr)
