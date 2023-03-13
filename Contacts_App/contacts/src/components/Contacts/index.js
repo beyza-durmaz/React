@@ -22,7 +22,7 @@ function Contacts() {
 
     useEffect(() => {
         console.log(contacts);
-    }, [contacts])
+    }, [contacts])  
 
     return (
         <div id='container'>
