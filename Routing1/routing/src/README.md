@@ -1,0 +1,1 @@
+Bu routing çalışması react-router-dom v6, güncel versiyon ile yapılmıştır.
